@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week3\\RetailInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0F6C-D0E4-4E44-B738-8082052478B4}|RetailInventory\\RetailInventory.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week3\\retailinventory\\retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC0F6C-D0E4-4E44-B738-8082052478B4}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0F6C-D0E4-4E44-B738-8082052478B4}|RetailInventory\\RetailInventory.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week3\\retailinventory\\retailinventory\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC0F6C-D0E4-4E44-B738-8082052478B4}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0F6C-D0E4-4E44-B738-8082052478B4}|RetailInventory\\RetailInventory.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week3\\retailinventory\\retailinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC0F6C-D0E4-4E44-B738-8082052478B4}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0F6C-D0E4-4E44-B738-8082052478B4}|RetailInventory\\RetailInventory.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week3\\retailinventory\\retailinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC0F6C-D0E4-4E44-B738-8082052478B4}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week3\\RetailInventory\\RetailInventory\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\AppDbContext.cs",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week3\\RetailInventory\\RetailInventory\\AppDbContext.cs",
+              "RelativeToolTip": "RetailInventory\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:48:05.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week3\\RetailInventory\\RetailInventory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Models\\Product.cs",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week3\\RetailInventory\\RetailInventory\\Models\\Product.cs",
+              "RelativeToolTip": "RetailInventory\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:47:05.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week3\\RetailInventory\\RetailInventory\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Models\\Category.cs",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week3\\RetailInventory\\RetailInventory\\Models\\Category.cs",
+              "RelativeToolTip": "RetailInventory\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:46:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week3\\RetailInventory\\RetailInventory\\Program.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Program.cs",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week3\\RetailInventory\\RetailInventory\\Program.cs",
+              "RelativeToolTip": "RetailInventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:44:31.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
